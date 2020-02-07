@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name puck_central_board-rescue)(type Legacy)(uri ${KIPRJMOD}/puck_central_board-rescue.lib)(options "")(descr ""))
+  (lib (name custom)(type Legacy)(uri ${KIPRJMOD}/custom_lib/custom.lib)(options "")(descr ""))
+  (lib (name 2019-12-06_01-50-56)(type Legacy)(uri ${KIPRJMOD}/custom_lib/ul_NCP1117DT33T5G/KiCAD/2019-12-06_01-50-56/2019-12-06_01-50-56.lib)(options "")(descr ""))
+)
